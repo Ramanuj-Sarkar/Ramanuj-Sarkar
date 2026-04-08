@@ -2,7 +2,7 @@
 
 I'm a **software developer** and **AI/ML Engineer** living in Irvine, California.
 
-I'm currently working part-time at the startup **[Avior Informatics](https://www.aviorinformatics.com/)**,
+I'm currently working at the startup **[Avior Informatics](https://www.aviorinformatics.com/)**,
 
 I like to code in Python and do small projects. I'm currently trying to put more projects on GitHub.
 
