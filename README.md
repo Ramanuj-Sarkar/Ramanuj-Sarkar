@@ -1,4 +1,4 @@
-# Why, hello there!
+# Hello!
 
 I'm an ML & AI Engineer building production-grade systems at the intersection of **biology and artifical intelligence**. I specialize in turning complex requirements into reliable, deployed ML workflows, from RAG pipelines and agentic systems to computer vision and MLOps infrastructure.
 
