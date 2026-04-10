@@ -18,7 +18,7 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 ## Tech Stack
 
 **AI/ML**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Pytorch-black?style=for-the-badge&logo=pytorch&logoColor=orange&logoSize=auto" alt="Pytorch">
 <img src="https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=orange&logoSize=auto" alt="Tensorflow">
 <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
@@ -42,22 +42,22 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 -->
 
 **Cloud & MLOps**
-<div align="center">
+<div align="left">
 `AWS` `Microsoft Azure` `GCP` `FastAPI` `Streamlit` `Docker` `CI/CD` `MLflow`
 </div>
 
 **Data & Databases**
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/NumPy-eeeeee.svg?style=for-the-badge&logo=numpy&logoColor=blue&logoSize=auto" alt="NumPy">
 <img src="https://img.shields.io/badge/Pandas-eeeeee.svg?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto" alt="Pandas">
 
-`Azure SQL` `MySQL` `Pandas` `NumPy` `Power BI` `Tableau`
+`Azure SQL` `MySQL` `Power BI` `Tableau`
 
 </div>
 
 **Languages**
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
 
 
