@@ -18,8 +18,24 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 ## Tech Stack
 
 **AI/ML**
-
-`PyTorch` `TensorFlow` `Scikit-learn` `LangChain` `LangGraph` `OpenAI` `Pinecone` `HuggingFace` `PaddleOCR` `OpenCV`
+<div align="center">
+<img src="https://img.shields.io/badge/Pytorch-black?style=for-the-badge&logo=pytorch&logoColor=orange&logoSize=auto" alt="Pytorch">
+<img src="https://img.shields.io/badge/Tensorflow-EEEEEE?style=for-the-badge&logo=tensorflow&logoColor=orange&logoSize=auto" alt="Tensorflow">
+<img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
+<img src="https://img.shields.io/badge/Langchain-black?style=for-the-badge&logo=langchain&logoColor=light%20blue&logoSize=auto" alt="LangChain">
+</div>
+<!--
+`PyTorch`
+`TensorFlow`
+`Scikit-learn`
+`LangChain`
+`LangGraph`
+`OpenAI`
+`Pinecone`
+`HuggingFace`
+`PaddleOCR`
+`OpenCV`
+-->
 
 **Cloud & MLOps**
 
@@ -31,7 +47,8 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 
 **Languages**
 
-`Python` `Java` `R` `SQL` `Bash` `JavaScript`
+<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
+`Java` `R` `SQL` `Bash` `JavaScript`
 
 ---
 
