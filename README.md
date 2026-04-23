@@ -24,22 +24,17 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 <img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
 <img src="https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=light%20blue&logoSize=auto" alt="LangChain">
 <img src="https://img.shields.io/badge/Langgraph-eeeeee?style=for-the-badge&logo=langgraph&logoColor=green&logoSize=auto" alt="LangChain">
-</div>
 
 <!--
   https://img.shields.io/badge/Langgraph-gray?style=for-the-badge&logo=langgraph&logoColor=green&logoSize=auto
+-->
 
-`PyTorch`
-`TensorFlow`
-`Scikit-learn`
-`LangChain`
-`LangGraph`
 `OpenAI`
 `Pinecone`
 `HuggingFace`
 `PaddleOCR`
 `OpenCV`
--->
+</div>
 
 **Cloud & MLOps**
 <div align="left">
@@ -60,8 +55,11 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 <div align="left">
 <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
 
+Probably make 2 rows, one for languages I've actually used for business and one for languages I've used purely for fun or school
 
-`Java` `R` `SQL` `Bash` `JavaScript`
+`R` `SQL` `Bash` `JavaScript`
+
+`Java` `C` `C++` `Racket` `Rust` `Kotlin`
 
 </div>
 
