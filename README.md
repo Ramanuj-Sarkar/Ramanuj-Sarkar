@@ -18,50 +18,48 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 ## Tech Stack
 
 **AI/ML**
-<div align="left">
-<img src="https://img.shields.io/badge/Pytorch-black?style=for-the-badge&logo=pytorch&logoColor=orange&logoSize=auto" alt="Pytorch">
-<img src="https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoColor=orange&logoSize=auto" alt="Tensorflow">
-<img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn">
-<img src="https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoColor=light%20blue&logoSize=auto" alt="LangChain">
-<img src="https://img.shields.io/badge/Langgraph-eeeeee?style=for-the-badge&logo=langgraph&logoColor=green&logoSize=auto" alt="LangChain">
 
-<!--
-  https://img.shields.io/badge/Langgraph-gray?style=for-the-badge&logo=langgraph&logoColor=green&logoSize=auto
--->
-
-`OpenAI`
-`Pinecone`
-`HuggingFace`
-`PaddleOCR`
-`OpenCV`
-</div>
+![Pytorch](https://img.shields.io/badge/Pytorch-black?style=for-the-badge&logo=pytorch&logoSize=auto)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoSize=auto)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23f7931e.svg?style=for-the-badge&logo=scikit-learn&&logoColor=white&logoSize=auto)
+![LangChain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoSize=auto)
+![LangGraph](https://img.shields.io/badge/Langgraph-eeeeee?style=for-the-badge&logo=langgraph&logoColor=green&logoSize=auto)
+![OpenAI](https://img.shields.io/badge/OpenAI-40916c?style=for-the-badge&logo=openaigym&logoColor=000000&logoSize=auto)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoSize=auto)
 
 **Cloud & MLOps**
-<div align="left">
-`AWS` `Microsoft Azure` `GCP` `FastAPI` `Streamlit` `Docker` `CI/CD` `MLflow`
-</div>
+
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-007fff?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-eeeeee?style=for-the-badge&logo=google&logoSize=auto)
+![FastAPI](https://img.shields.io/badge/FastAPI-eeeeee?style=for-the-badge&logo=fastapi&logoSize=auto)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoSize=auto)
+![Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoSize=auto)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logoSize=auto)
+![MLflow](https://img.shields.io/badge/MLflow-eeeeee?style=for-the-badge&logo=mlflow&logoSize=auto)
+
 
 **Data & Databases**
-<div align="left">
-<img src="https://img.shields.io/badge/NumPy-eeeeee.svg?style=for-the-badge&logo=numpy&logoColor=blue&logoSize=auto" alt="NumPy">
-<img src="https://img.shields.io/badge/Pandas-eeeeee.svg?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto" alt="Pandas">
+
+![NumPy](https://img.shields.io/badge/NumPy-blue.svg?style=for-the-badge&logo=numpy&logoSize=auto)
+![Pandas](https://img.shields.io/badge/Pandas-eeeeee.svg?style=for-the-badge&logo=pandas&logoColor=%23150458&logoSize=auto)
+![OpenCV](https://img.shields.io/badge/OpenCV-4895ef?style=for-the-badge&logo=opencv&logoSize=auto)
+![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-eeeeee?style=for-the-badge&logo=paddlepaddle&logoColor=4895ef&logoSize=auto)
+![Pinecone](https://img.shields.io/badge/Pinecone-00008b?style=for-the-badge)
 
 `Azure SQL` `MySQL` `Power BI` `Tableau`
 
-</div>
 
 **Languages**
 
-<div align="left">
-<img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"> 
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&logoSize=auto)
+![R language](https://img.shields.io/badge/Rlang-000000?style=for-the-badge&logo=r&logoSize=auto)
 
 Probably make 2 rows, one for languages I've actually used for business and one for languages I've used purely for fun or school
 
 `R` `SQL` `Bash` `JavaScript`
 
 `Java` `C` `C++` `Racket` `Rust` `Kotlin`
-
-</div>
 
 ---
 
