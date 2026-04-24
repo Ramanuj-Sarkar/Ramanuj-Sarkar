@@ -46,8 +46,12 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 ![OpenCV](https://img.shields.io/badge/OpenCV-4895ef?style=for-the-badge&logo=opencv&logoSize=auto)
 ![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-eeeeee?style=for-the-badge&logo=paddlepaddle&logoColor=4895ef&logoSize=auto)
 ![Pinecone](https://img.shields.io/badge/Pinecone-00008b?style=for-the-badge)
+![PowerBI](https://img.shields.io/badge/PowerBI-ffff00?style=for-the-badge&logoSize=auto)
+![Tableau](https://img.shields.io/badge/Tableau-3399ff?style=for-the-badge&logoSize=auto)
 
-`Azure SQL` `MySQL` `Power BI` `Tableau`
+
+
+<!-- `Azure SQL` `MySQL` -->
 
 
 **Languages**
@@ -57,7 +61,7 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 
 Probably make 2 rows, one for languages I've actually used for business and one for languages I've used purely for fun or school
 
-`R` `SQL` `Bash` `JavaScript`
+`SQL` `Bash` `JavaScript`
 
 `Java` `C` `C++` `Racket` `Rust` `Kotlin`
 
