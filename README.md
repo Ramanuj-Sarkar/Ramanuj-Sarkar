@@ -19,19 +19,56 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 
 **AI/ML**
 
-`PyTorch` `TensorFlow` `Scikit-learn` `LangChain` `LangGraph` `OpenAI` `Pinecone` `HuggingFace` `PaddleOCR` `OpenCV`
+![Pytorch](https://img.shields.io/badge/Pytorch-black?style=for-the-badge&logo=pytorch&logoSize=auto)
+![Tensorflow](https://img.shields.io/badge/Tensorflow-eeeeee?style=for-the-badge&logo=tensorflow&logoSize=auto)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23f7931e.svg?style=for-the-badge&logo=scikit-learn&&logoColor=white&logoSize=auto)
+![LangChain](https://img.shields.io/badge/Langchain-000000?style=for-the-badge&logo=langchain&logoSize=auto)
+![LangGraph](https://img.shields.io/badge/Langgraph-eeeeee?style=for-the-badge&logo=langgraph&logoColor=green&logoSize=auto)
+![OpenAI](https://img.shields.io/badge/OpenAI-40916c?style=for-the-badge&logo=openaigym&logoColor=000000&logoSize=auto)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-000000?style=for-the-badge&logo=huggingface&logoSize=auto)
 
 **Cloud & MLOps**
 
-`AWS` `Microsoft Azure` `GCP` `FastAPI` `Streamlit` `Docker` `CI/CD` `MLflow`
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-007fff?style=for-the-badge)
+![GCP](https://img.shields.io/badge/GCP-eeeeee?style=for-the-badge&logo=google&logoSize=auto)
+![FastAPI](https://img.shields.io/badge/FastAPI-eeeeee?style=for-the-badge&logo=fastapi&logoSize=auto)
+![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoSize=auto)
+![Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoSize=auto)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logoSize=auto)
+![MLflow](https://img.shields.io/badge/MLflow-eeeeee?style=for-the-badge&logo=mlflow&logoSize=auto)
+
 
 **Data & Databases**
 
-`Azure SQL` `MySQL` `Pandas` `NumPy` `Power BI` `Tableau`
+![NumPy](https://img.shields.io/badge/NumPy-blue.svg?style=for-the-badge&logo=numpy&logoSize=auto)
+![Pandas](https://img.shields.io/badge/Pandas-eeeeee.svg?style=for-the-badge&logo=pandas&logoColor=800080&logoSize=auto)
+![OpenCV](https://img.shields.io/badge/OpenCV-4895ef?style=for-the-badge&logo=opencv&logoSize=auto)
+![PaddlePaddle](https://img.shields.io/badge/PaddlePaddle-eeeeee?style=for-the-badge&logo=paddlepaddle&logoColor=4895ef&logoSize=auto)
+![Pinecone](https://img.shields.io/badge/Pinecone-00008b?style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoSize=auto)
+![AzureSQL](https://img.shields.io/badge/AzureSQL-3399ff?style=for-the-badge&logoSize=auto)
+![PowerBI](https://img.shields.io/badge/PowerBI-fbcb00?style=for-the-badge&logoSize=auto)
+![Tableau](https://img.shields.io/badge/Tableau-cd0123?style=for-the-badge&logoSize=auto)
+
+
+
+<!-- `Azure SQL` `MySQL` -->
+
 
 **Languages**
 
-`Python` `Java` `R` `SQL` `Bash` `JavaScript`
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&logoSize=auto)
+![SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=postgresql&logoSize=auto)
+![R language](https://img.shields.io/badge/Rlang-007fff?style=for-the-badge&logo=r&logoSize=auto)
+![Bash](https://img.shields.io/badge/Bash-eeeeee?style=for-the-badge&logo=gnubash&logoSize=auto)
+![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoSize=auto)
+
+![Java](https://img.shields.io/badge/Java-800080?style=for-the-badge&logoSize=auto)
+![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoSize=auto)
+![C++](https://img.shields.io/badge/C%2B%2B-1656ad?style=for-the-badge&logo=cplusplus&logoSize=auto)
+![Racket](https://img.shields.io/badge/Racket-006776?style=for-the-badge&logo=racket&logoSize=auto)
+![Rust](https://img.shields.io/badge/Rust-eeeeee?style=for-the-badge&logo=rust&logoColor=000000&logoSize=auto)
 
 ---
 
