@@ -48,8 +48,8 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 ![Pinecone](https://img.shields.io/badge/Pinecone-00008b?style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoSize=auto)
 ![AzureSQL](https://img.shields.io/badge/AzureSQL-3399ff?style=for-the-badge&logoSize=auto)
-![PowerBI](https://img.shields.io/badge/PowerBI-ffff00?style=for-the-badge&logoSize=auto)
-![Tableau](https://img.shields.io/badge/Tableau-3399ff?style=for-the-badge&logoSize=auto)
+![PowerBI](https://img.shields.io/badge/PowerBI-fbcb00?style=for-the-badge&logoSize=auto)
+![Tableau](https://img.shields.io/badge/Tableau-cd0123?style=for-the-badge&logoSize=auto)
 
 
 
