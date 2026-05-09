@@ -110,4 +110,4 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 
 ---
 
-*Open to collaborations in AI/ML engineering, bioinformatics, and MLOps.*
+*Open to collaborations.*
