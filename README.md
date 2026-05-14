@@ -30,12 +30,12 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 **Cloud & MLOps**
 
 ![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge)
-![Azure](https://img.shields.io/badge/Azure-007fff?style=for-the-badge)
 ![GCP](https://img.shields.io/badge/GCP-eeeeee?style=for-the-badge&logo=google&logoSize=auto)
+![Azure](https://img.shields.io/badge/Azure-007fff?style=for-the-badge)
 ![FastAPI](https://img.shields.io/badge/FastAPI-eeeeee?style=for-the-badge&logo=fastapi&logoSize=auto)
 ![Streamlit](https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoSize=auto)
 ![Docker](https://img.shields.io/badge/Docker-eeeeee?style=for-the-badge&logo=docker&logoSize=auto)
-![CI/CD](https://img.shields.io/badge/CI%2FCD-000000?style=for-the-badge&logoSize=auto)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-b0c4de?style=for-the-badge&logoSize=auto)
 ![MLflow](https://img.shields.io/badge/MLflow-eeeeee?style=for-the-badge&logo=mlflow&logoSize=auto)
 
 
@@ -49,20 +49,17 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 ![MySQL](https://img.shields.io/badge/MySQL-eeeeee?style=for-the-badge&logo=mysql&logoSize=auto)
 ![AzureSQL](https://img.shields.io/badge/AzureSQL-3399ff?style=for-the-badge&logoSize=auto)
 ![PowerBI](https://img.shields.io/badge/PowerBI-fbcb00?style=for-the-badge&logoSize=auto)
-![Tableau](https://img.shields.io/badge/Tableau-cd0123?style=for-the-badge&logoSize=auto)
-
-
-
-<!-- `Azure SQL` `MySQL` -->
+![Tableau](https://img.shields.io/badge/Tableau-b0c4de?style=for-the-badge&logoSize=auto)
 
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&logoSize=auto)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=ffdd54&logoSize=auto)
 ![SQL](https://img.shields.io/badge/SQL-eeeeee?style=for-the-badge&logo=postgresql&logoSize=auto)
 ![R language](https://img.shields.io/badge/Rlang-007fff?style=for-the-badge&logo=r&logoSize=auto)
 ![Bash](https://img.shields.io/badge/Bash-eeeeee?style=for-the-badge&logo=gnubash&logoSize=auto)
-![Javascript](https://img.shields.io/badge/Javascript-000000?style=for-the-badge&logo=javascript&logoSize=auto)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-b0c4de?style=for-the-badge&logo=html5)
+![Javascript](https://img.shields.io/badge/Javascript-3670A0?style=for-the-badge&logo=javascript&logoSize=auto)
 
 ![Java](https://img.shields.io/badge/Java-800080?style=for-the-badge&logoSize=auto)
 ![C](https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoSize=auto)
