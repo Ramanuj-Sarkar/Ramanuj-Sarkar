@@ -102,8 +102,10 @@ Currently shipping AI tools used in real clinical and enterprise environments wh
 ## Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ramanuj%20Sarkar-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ramanuj-sarkar/)
-[![Email](https://img.shields.io/badge/Email-ramanuj.sarkar.ge%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ramanuj.sarkar.ge@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ramanuj.sarkar.ge%40gmail.com-34A853?style=flat&logo=gmail&logoColor=white)](mailto:ramanuj.sarkar.ge@gmail.com)
+
 [![GitHub](https://img.shields.io/badge/GitHub-Ramanuj--Sarkar-181717?style=flat&logo=github&logoColor=white)](https://github.com/Ramanuj-Sarkar)
+[![YouTube](https://img.shields.io/badge/YouTube-@Ramanuj--Sarkar-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@Ramanuj-Sarkar)
 
 ---
 
